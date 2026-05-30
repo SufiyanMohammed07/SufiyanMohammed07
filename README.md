@@ -172,8 +172,8 @@ email      : sssufiyan98@gmail.com
 <div align="center">
 
 ### 🤖 VISION-GPT — Multimodal AI Assistant
-[![Live](https://img.shields.io/badge/Live%20Demo-Click%20Here-7c3aed?style=for-the-badge)](https://github.com/sssufiyan98)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/sssufiyan98)
+[![Live](https://img.shields.io/badge/Live%20Demo-Click%20Here-7c3aed?style=for-the-badge)](https://visiongpt-frontend.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/SufiyanMohammed07/VisionGPT)
 
 </div>
 
@@ -190,7 +190,7 @@ email      : sssufiyan98@gmail.com
 <div align="center">
 
 ### 📄 Auto-Docs — CLI Tool for API Documentation Automation
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/sssufiyan98)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/SufiyanMohammed07)
 
 </div>
 
