@@ -1,10 +1,252 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Sufiyan+Mohammed;Full+Stack+Developer;Backend+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+and+Impactful+Solutions" alt="Typing Intro" />
-
+<div align="center">
 # **Sufiyan Mohammed**
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=111827" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=38&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=1200&lines=SUFIYAN+MOHAMMED;FULL+STACK+ENGINEER;FOUNDER+OF+NEWMETRO;FOUNDER+OF+TRAVELETIX;OPEN+SOURCE+CONTRIBUTOR;BUILDING+SCALABLE+PRODUCTS+%26+CLOUD+SYSTEMS" />
+
+# Sufiyan Mohammed
+
+### Founder • Full Stack Engineer • Open Source Contributor • Cloud & DevOps Enthusiast
+
+<img src="https://komarev.com/ghpvc/?username=SufiyanMohammed07&style=for-the-badge&color=0ea5e9"/>
+
+</div>
+
+---
+
+# About
+
+I am a Full Stack Engineer passionate about building products that solve real-world problems and scale efficiently.
+
+My focus lies in backend engineering, cloud infrastructure, developer tooling, automation systems, and modern web applications.
+
+I enjoy taking ideas from concept to production while maintaining clean architecture, security, performance, and scalability.
+
+---
+
+# Impact
+
+### Founder & Builder
+
+🏢 Founder of **NewMetro**  
+🌐 https://newmetro.online
+
+✈️ Founder of **Traveletix**  
+Travel & Tourism Platform
+
+### Open Source
+
+🌟 Contributed to **10+ Open Source Projects**
+
+### Engineering
+
+🚀 Built **20+ Real-World Projects**
+
+⚙️ CI/CD Automation Engineer
+
+☁️ Cloud & DevOps Practitioner
+
+🔒 Backend & API Development Specialist
+
+---
+
+# Expertise
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+Additional Experience:
+
+- REST APIs
+- MVC Architecture
+- JWT Authentication
+- OpenAPI / Swagger
+- API Documentation Systems
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
+---
+
+# Featured Projects
+
+## NewMetro
+
+Production-ready web platform built to solve real-world business needs.
+
+**Role:** Founder & Developer
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Cloud Deployment
+
+---
+
+## Traveletix
+
+Travel & Tourism platform designed using modern software architecture.
+
+**Role:** Founder & Full Stack Developer
+
+**Tech Stack**
+
+- Node.js
+- Express.js
+- MongoDB
+- EJS
+- Bootstrap
+
+---
+
+## API Documentation Automation
+
+Automated API documentation generation and deployment platform.
+
+**Highlights**
+
+- OpenAPI
+- Swagger
+- GitHub Actions
+- CI/CD Pipelines
+- Automated Documentation Deployment
+
+---
+
+## Expense Tracker
+
+Cross-platform expense management application.
+
+**Tech Stack**
+
+- Flutter
+- MongoDB
+- Express.js
+
+---
+
+# Engineering Interests
+
+- Artificial Intelligence
+- Machine Learning
+- System Design
+- Distributed Systems
+- Cloud Infrastructure
+- DevOps
+- Cybersecurity
+- Threat Intelligence
+- Network Engineering
+- Graph Analytics
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SufiyanMohammed07&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufiyanMohammed07&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=SufiyanMohammed07&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SufiyanMohammed07&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# Open Source
+
+I actively contribute to open-source projects and enjoy collaborating with developers worldwide.
+
+Areas of contribution include:
+
+- Web Development
+- Backend Engineering
+- Developer Tooling
+- Documentation
+- Automation Systems
+- Cloud Infrastructure
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/SufiyanMohammed07">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://newmetro.online">
+<img src="https://img.shields.io/badge/Website-NewMetro-0D1117?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Building Products • Contributing to Open Source • Engineering Scalable Systems
+
+</div>
+
+
+
+<!-- <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=111827" />
 <img src="https://img.shields.io/badge/Backend%20Engineer-0D1117?style=for-the-badge&logo=serverfault&logoColor=7C3AED&labelColor=111827" />
 <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps%20Enthusiast-0D1117?style=for-the-badge&logo=icloud&logoColor=22D3EE&labelColor=111827" />
 
@@ -175,8 +417,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer" width="100%" />
 </div>
 
+
 <div align="center">
 
 ### ✨ *Code. Build. Innovate.*
 
-</div>
+
+</div> -->
