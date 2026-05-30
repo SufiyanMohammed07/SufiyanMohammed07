@@ -10,12 +10,11 @@
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=sssufiyan98&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Open%20Source-10%2B%20Contributions-22c55e?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Startup%20Founder-newmetro.online-f59e0b?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/SIH%202025-Finalist%20🏆-ef4444?style=flat-square" />
+  <img src="https://img.shields.io/badge/SIH%202025-Finalist-ef4444?style=flat-square" />
 </p>
 
 </div>
@@ -48,7 +47,7 @@ email      : sssufiyan98@gmail.com
 | 🥇 **SIH 2025 Finalist** | National-level hackathon — Top innovator |
 | 🌐 **Startup Founder** | newmetro.online — Live MERN e-commerce |
 | 🤝 **Open Source** | 10+ contributions across projects |
-| ☁️ **Cloud Architect** | AWS EC2, S3, Nginx, PM2, Cloudflare CDN |
+| ☁️ **Cloud Architect** | AWS EC2, S3, Lambda, Nginx, PM2, Cloudflare CDN |
 | 🤖 **AI Builder** | Built multimodal AI assistant with GPT-4 |
 | 💊 **Social Impact** | Jeevan Rakshak — Public health emergency platform |
 
@@ -135,7 +134,7 @@ email      : sssufiyan98@gmail.com
 <div align="center">
 
 ### 🛍️ New-Metro — Full-Stack Footwear Marketplace
-[![Live](https://img.shields.io/badge/🌐%20Live-newmetro.online-22c55e?style=for-the-badge)](https://newmetro.online)
+[![Live](https://img.shields.io/badge/Live-newmetro.online-22c55e?style=for-the-badge)](https://newmetro.online)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/sssufiyan98)
 
 </div>
@@ -154,7 +153,7 @@ email      : sssufiyan98@gmail.com
 <div align="center">
 
 ### 🏥 Jeevan Rakshak — Kerala Public Health & Emergency Platform
-[![Live](https://img.shields.io/badge/🌐%20Live-motorzan.com-22c55e?style=for-the-badge)](https://motorzan.com)
+[![Live](https://img.shields.io/badge/Live-motorzan.com-22c55e?style=for-the-badge)](https://motorzan.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/sssufiyan98)
 
 </div>
@@ -173,7 +172,7 @@ email      : sssufiyan98@gmail.com
 <div align="center">
 
 ### 🤖 VISION-GPT — Multimodal AI Assistant
-[![Live](https://img.shields.io/badge/🌐%20Live%20Demo-Click%20Here-7c3aed?style=for-the-badge)](https://github.com/sssufiyan98)
+[![Live](https://img.shields.io/badge/Live%20Demo-Click%20Here-7c3aed?style=for-the-badge)](https://github.com/sssufiyan98)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/sssufiyan98)
 
 </div>
@@ -205,63 +204,27 @@ email      : sssufiyan98@gmail.com
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Engineering at a Glance
+
+> Real systems. Real users. Real infrastructure.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sssufiyan98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssufiyan98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sssufiyan98&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sssufiyan98&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏅 Certifications
-
-| 🎓 Certificate | 🏢 Issuer |
-|---|---|
-| 🏆 Smart India Hackathon 2025 Finalist | Government of India |
-| ☕ Java, DSA & Full-Stack Web Dev | Apna College |
-| 🐍 Programming Essentials in C & Python | Cisco |
-| 🌐 Web Development Bootcamp | Udemy — Dr. Angela Yu |
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:sssufiyan98@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sssufiyan98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sssufiyan98">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/sssufiyan98">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://newmetro.online">
-  <img src="https://img.shields.io/badge/🏪%20newmetro.online-Visit%20Store-22c55e?style=for-the-badge"/>
-</a>
+| Metric | Value |
+|--------|-------|
+| 🌐 **Live Production Apps** | 2 — newmetro.online · motorzan.com |
+| ☁️ **Cloud Services Deployed** | AWS EC2 · S3 · Lambda · Azure DevOps · Cloudflare |
+| 🔒 **Auth Systems Built** | JWT · Passport.js · Twilio OTP · OAuth |
+| 🐳 **DevOps Pipeline** | Docker → GitHub Actions → Nginx + PM2 → AWS |
+| 🤝 **Open Source Contributions** | 10+ across public repositories |
+| 🏆 **Hackathons** | SIH 2025 Finalist — National Level |
+| 🏗️ **Infrastructure as Code** | Terraform for AWS provisioning |
+| 🤖 **AI Integrations Shipped** | GPT-4o Mini · Multilingual NLP · Barcode Vision |
 
 </div>
 
 ---
 
-<div align="center">
+## 🧭 Skill Depth Map
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20Opportunities%20%7C%20Let's%20Build%20Something%20Great&fontSize=14&fontColor=a78bfa&animation=fadeIn" width="100%"/>
-
-</div>
+> Not just what I know — how deep I've gone.
