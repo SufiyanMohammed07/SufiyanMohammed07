@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name       : Mohammed Sofiyan Ali
+name       : Mohammed Sufiyan Ali
 location   : Hyderabad, Telangana, India
 education  : B.Tech Computer Science — VJIT 
 roles      : Full-Stack Developer | Backend Engineer | DevOps Engineer | Startup Founder
