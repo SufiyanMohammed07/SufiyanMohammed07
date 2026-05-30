@@ -26,7 +26,7 @@
 ```yaml
 name       : Mohammed Sofiyan Ali
 location   : Hyderabad, Telangana, India
-education  : B.Tech Computer Science — VJIT (CGPA: 8.49)
+education  : B.Tech Computer Science — VJIT 
 roles      : Full-Stack Developer | Backend Engineer | DevOps Engineer | Startup Founder
 email      : sssufiyan98@gmail.com
 ```
