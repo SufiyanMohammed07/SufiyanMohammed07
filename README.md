@@ -153,7 +153,7 @@ email      : sssufiyan98@gmail.com
 <div align="center">
 
 ### 🏥 Jeevan Rakshak — Kerala Public Health & Emergency Platform
-[![Live](https://img.shields.io/badge/Live-motorzan.com-22c55e?style=for-the-badge)](https://motorzan.com)
+[![Live](https://img.shields.io/badge/Live-motorzan.com-22c55e?style=for-the-badge)](https://motorzan.com/govt/login)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/sssufiyan98)
 
 </div>
